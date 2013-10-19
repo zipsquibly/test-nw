@@ -1,0 +1,21 @@
+{
+  "name": "test-nw",
+  "version": "0.1.0",
+  "description": "This is a simple hello-world node-webkit test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zipsquibly/test-nw.git"
+  },
+  "keywords": [
+    "node-webkit"
+  ],
+  "author": "Brian Carlson",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/zipsquibly/test-nw/issues"
+  }
+}
