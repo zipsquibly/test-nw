@@ -2,7 +2,7 @@
   "name": "test-nw",
   "version": "0.1.0",
   "description": "This is a simple hello-world node-webkit test",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "mocha --reporter spec tests"
   },
